@@ -6,13 +6,12 @@ I’m a data professional focused on building **audit-ready pipelines**, **regul
 - 🧰 Stack: SQL • Python • PySpark • Databricks • Airflow/Orchestration • Power BI/Tableau • GitHub Actions
 - 🎯 Interests: Data engineering for analytics, regulatory reporting, monitoring, and reliability.
 
-## 🚀 Pinned Projects (Portfolio Highlights)
+## 🚀 Pinned Projects (Portfolio Highlights) 
 
-1) **Data Platform Portfolio** 
-2) **Audit-Ready Regulatory Reporting Pipeline**  
-3) **KPI + SLA Monitoring Suite**  
-4) **Reconciliation Engine**  
-5) **Churn + Causal Analysis**
+1) **Audit-Ready Regulatory Reporting Pipeline**  
+2) **KPI + SLA Monitoring Suite**  
+3) **Reconciliation Engine**  
+4) **Churn + Causal Analysis**
 
 
 ## 🧩 What I’m Good At
