@@ -9,8 +9,6 @@ I’m a data professional focused on building **audit-ready pipelines**, **regul
 ## 🚀 Pinned Projects (Portfolio Highlights)
 
 1) **Data Platform Portfolio** – end-to-end projects & production patterns  
-   → `data-platform-portfolio`
-
 2) **Audit-Ready Regulatory Reporting Pipeline**  
 3) **KPI + SLA Monitoring Suite**  
 4) **Reconciliation Engine**  
